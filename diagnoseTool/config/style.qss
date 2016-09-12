@@ -1,0 +1,7 @@
+#MainWindow{background-image:url(:/images/bg.png);background-repeat: repeat-xy;padding:5px 30px 5px 30px;}
+#centerFrame{border:1px groove white;border-radius:10px;background-color:white;padding:5px 15px 5px 15px;}
+#infoGbox{margin-bottom:15px;}
+QPushButton[classField="greyBtn"]{border: 1px solid #858c95;border-radius: 6px;background-color: #858c95;color:white;font:bold 24px;}
+QPushButton[classField="greyBtn"]:pressed{background-color: #61686d;}
+QPushButton[classField="greenBtn"]{border: 1px solid #06bd04;border-radius: 6px;background-color: #06bd04;color:white;font:bold 24px;}
+QPushButton[classField="greenBtn"]:pressed{background-color: #048b03;}
