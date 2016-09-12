@@ -10,6 +10,8 @@
 
 本项目基于Qt4.8.5进行开发，若需要手工编译或者再次开发，则需要到[qt project](https://download.qt.io/archive/qt/4.8/4.8.5/)下载qt-creator及sdk。
 
+若需要直接运行，则下载[diagnoseTool.tar.bz2](https://github.com/blaketang/wxpay-diagtool-win/blob/master/release/diagnoseTool.tar.bz2)，解压后运行DiagnoseTool.exe
+
 
 
 ### 功能点：
